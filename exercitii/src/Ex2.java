@@ -29,6 +29,6 @@ public class Ex2 {
                 ziASaptaminii = "duminica";
                 break;
         }
-        System.out.println("Astazi este " + ziASaptaminii);
+        System.out.println("Astazi este " + ziASaptaminii + " , git uraaa!");
     }
 }
